@@ -1,0 +1,16 @@
+logs/
+models/
+old_logs/
+plots/
+old_plots/
+old_models/
+vnf_lists/
+venv/
+.idea/
+__pycache__/
+
+notes.txt
+
+*.log
+*.pt
+*.png
